@@ -1,0 +1,16 @@
+{
+  "name": "TunnelSnakes",
+  "description": "Tunnel Snakes Rule!",
+  "createdAtMillis": 1456466187411,
+  "home": {
+    "w": "world",
+    "lx": -467.3166737137942,
+    "ly": 71.0,
+    "lz": 769.0277648126588,
+    "p": 18.749968,
+    "y": -281.11267
+  },
+  "flags": {
+    "monsters": false
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": "ThePhilosophers",
+  "description": "Our Origin Shall Be Our End",
+  "createdAtMillis": 1456266921655,
+  "home": {
+    "w": "world",
+    "lx": -139.5124491239384,
+    "ly": 100.0,
+    "lz": 352.3793099648676,
+    "p": -1.4999679,
+    "y": -179.9541
+  },
+  "relationWishes": {
+    "ed474e5c-5a7f-4106-8d6a-4d22b4d400ac": "TRUCE",
+    "30f275c8-bf80-4916-a98c-875bac7f6e5a": "ALLY",
+    "2fb3be8f-945e-4874-873d-8a392eddb4ef": "ALLY",
+    "a3a5336e-6840-48b7-a90c-9f27cd44ecab": "ALLY"
+  },
+  "perms": {
+    "build": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER"
+    ],
+    "painbuild": [],
+    "door": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY",
+      "TRUCE",
+      "NEUTRAL"
+    ],
+    "button": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT"
+    ],
+    "lever": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT"
+    ],
+    "container": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER"
+    ],
+    "name": [
+      "LEADER"
+    ],
+    "desc": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "motd": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "invite": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "kick": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "title": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "home": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "sethome": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "deposit": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY",
+      "TRUCE",
+      "NEUTRAL",
+      "ENEMY"
+    ],
+    "withdraw": [
+      "LEADER"
+    ],
+    "territory": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "access": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "claimnear": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "rel": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "disband": [
+      "LEADER"
+    ],
+    "flags": [
+      "LEADER"
+    ],
+    "perms": [
+      "LEADER"
+    ],
+    "status": [
+      "LEADER",
+      "OFFICER"
+    ]
+  }
+}

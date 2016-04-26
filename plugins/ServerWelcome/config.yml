@@ -1,0 +1,24 @@
+########################
+#    ServerWelcome     #
+#    By Ollirules      #
+########################
+
+# The name of your server. Used in broadcast messages.
+# Colour Codes Not Allowed
+#serverName: 'My Server'
+
+# The message the player recieves when joining the server for the first time.
+# Colour Codes Allowed
+# NOTE: %PLAYERNAME% will be replaced with the players name!
+joinFirstMessage: ''
+
+# The normal message the player recieves when joining the server again.
+# Colour Codes Allowed
+# NOTE: %PLAYERNAME% will be replaced with the players name!
+joinMessage: "This week's meeting is in Denny 102 @ 5pm on 4/12!"
+
+# When a player joins for the first time, whether it will show what player number he is to join the server
+showPlayerCount: false
+
+# Whether the server broadcasts a new players player number.
+broadcastPlayerCount: false

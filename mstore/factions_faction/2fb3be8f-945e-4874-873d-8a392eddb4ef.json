@@ -1,0 +1,18 @@
+{
+  "name": "SouthernSwarm",
+  "description": "A Hornets Nest of Rebellion",
+  "createdAtMillis": 1456274046918,
+  "home": {
+    "w": "world",
+    "lx": 2573.1097030939477,
+    "ly": 93.0,
+    "lz": 1150.5600428188943,
+    "p": 17.400019,
+    "y": 285.131
+  },
+  "relationWishes": {
+    "ed474e5c-5a7f-4106-8d6a-4d22b4d400ac": "TRUCE",
+    "a26059d5-27fb-4e48-b477-05f14b41d7fc": "ALLY",
+    "e4f68cf3-8b35-45bd-b60a-dc449663c0a0": "TRUCE"
+  }
+}

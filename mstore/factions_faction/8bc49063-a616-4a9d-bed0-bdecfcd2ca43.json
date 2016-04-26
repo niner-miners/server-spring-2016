@@ -1,0 +1,13 @@
+{
+  "name": "Georgetown",
+  "description": "May become the central city district for the server.",
+  "createdAtMillis": 1456449623051,
+  "home": {
+    "w": "world",
+    "lx": 50.29015667060674,
+    "ly": 64.0,
+    "lz": -158.5246063127456,
+    "p": 10.950169,
+    "y": 178.76978
+  }
+}

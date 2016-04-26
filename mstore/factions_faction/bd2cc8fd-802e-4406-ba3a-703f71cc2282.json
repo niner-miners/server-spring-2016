@@ -1,0 +1,140 @@
+{
+  "name": "MallardFaction",
+  "description": "John Mallard rules",
+  "createdAtMillis": 1458014145257,
+  "home": {
+    "w": "world_the_end",
+    "lx": -4066.817096332208,
+    "ly": 63.0,
+    "lz": 1020.5934980691725,
+    "p": 21.750011,
+    "y": -0.44714355
+  },
+  "invitedPlayerIds": [
+    "0f13dc47-7ef9-46f0-a999-62687495a6f0"
+  ],
+  "relationWishes": {
+    "e4f68cf3-8b35-45bd-b60a-dc449663c0a0": "ALLY"
+  },
+  "perms": {
+    "build": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "ALLY"
+    ],
+    "painbuild": [
+      "ALLY"
+    ],
+    "door": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "button": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "lever": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "container": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "ALLY"
+    ],
+    "name": [
+      "LEADER"
+    ],
+    "desc": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "motd": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "invite": [
+      "LEADER",
+      "OFFICER",
+      "ALLY"
+    ],
+    "kick": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "title": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "home": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "sethome": [
+      "LEADER",
+      "OFFICER",
+      "ALLY"
+    ],
+    "deposit": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY",
+      "TRUCE",
+      "NEUTRAL",
+      "ENEMY"
+    ],
+    "withdraw": [
+      "LEADER"
+    ],
+    "territory": [
+      "LEADER",
+      "OFFICER",
+      "ALLY"
+    ],
+    "access": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "claimnear": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "rel": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "disband": [
+      "LEADER"
+    ],
+    "flags": [
+      "LEADER"
+    ],
+    "perms": [
+      "LEADER",
+      "ALLY"
+    ],
+    "status": [
+      "LEADER",
+      "OFFICER"
+    ]
+  }
+}

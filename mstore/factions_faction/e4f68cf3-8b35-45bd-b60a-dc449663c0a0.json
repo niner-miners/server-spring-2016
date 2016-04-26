@@ -1,0 +1,139 @@
+{
+  "name": "WaterfowlFaction",
+  "description": "live by the quack, die by the quack",
+  "createdAtMillis": 1456267400887,
+  "home": {
+    "w": "world",
+    "lx": 2839.6580167364177,
+    "ly": 54.0,
+    "lz": -4121.279624386093,
+    "p": 22.636658,
+    "y": -349.59564
+  },
+  "relationWishes": {
+    "ed474e5c-5a7f-4106-8d6a-4d22b4d400ac": "ENEMY",
+    "6deff120-ccec-40a0-99b4-3c06672a39cb": "TRUCE",
+    "3a623e3e-91f1-44f3-83c0-de5a86291974": "ENEMY",
+    "bd2cc8fd-802e-4406-ba3a-703f71cc2282": "ALLY",
+    "2fb3be8f-945e-4874-873d-8a392eddb4ef": "TRUCE",
+    "86e60c8c-5b06-4464-8617-dfca89a30ca5": "TRUCE"
+  },
+  "flags": {
+    "monsters": false
+  },
+  "perms": {
+    "build": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "ALLY"
+    ],
+    "painbuild": [],
+    "door": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "button": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "lever": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "container": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "ALLY"
+    ],
+    "name": [
+      "LEADER"
+    ],
+    "desc": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "motd": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "invite": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "kick": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "title": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "home": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "sethome": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "deposit": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY",
+      "TRUCE",
+      "NEUTRAL",
+      "ENEMY"
+    ],
+    "withdraw": [
+      "LEADER"
+    ],
+    "territory": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "access": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "claimnear": [
+      "LEADER",
+      "OFFICER",
+      "MEMBER",
+      "RECRUIT",
+      "ALLY"
+    ],
+    "rel": [
+      "LEADER",
+      "OFFICER"
+    ],
+    "disband": [
+      "LEADER"
+    ],
+    "flags": [
+      "LEADER"
+    ],
+    "perms": [
+      "LEADER"
+    ],
+    "status": [
+      "LEADER",
+      "OFFICER"
+    ]
+  }
+}

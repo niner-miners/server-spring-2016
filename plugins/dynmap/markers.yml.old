@@ -1,0 +1,25 @@
+icons: {
+    }
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            marker_1:
+                world: world
+                markup: false
+                x: 253.0
+                icon: default
+                y: 66.0
+                z: 353.0
+                label: test
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

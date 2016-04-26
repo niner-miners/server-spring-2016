@@ -1,0 +1,16 @@
+{
+  "name": "GottaCatchEmAll",
+  "description": "all hail the pikachu leader",
+  "createdAtMillis": 1456286729633,
+  "home": {
+    "w": "world",
+    "lx": 2479.3075630768744,
+    "ly": 72.0,
+    "lz": -1833.7872221690675,
+    "p": 38.249863,
+    "y": 271.82373
+  },
+  "relationWishes": {
+    "a26059d5-27fb-4e48-b477-05f14b41d7fc": "ALLY"
+  }
+}

@@ -1,0 +1,55 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - easywarp.command.warp
+    - modifyworld.*
+  Officers:
+    permissions:
+    - -easywarp.command.warp.arena-controls
+    - minecraft.command.kick
+    - minecraft.command.whitelist
+    options:
+      prefix: Officer
+    inheritance:
+    - default
+schema-version: 1
+users:
+  24f4e76a-e509-3cc6-9fa5-024adc4cfba4:
+    permissions:
+    - '*'
+    options:
+      name: nickbreaton
+      group: Officers
+    worlds:
+      Officers:
+        permissions: []
+    group:
+    - Officers
+  c99a50b0-5c52-330b-99c2-7f4fe5cd4638:
+    group:
+    - Officers
+    options:
+      name: JSSwaffy
+  258f7dfb-4d1f-31dc-823e-fc8d6b157aa8:
+    group:
+    - Officers
+    options:
+      name: Wubba_lubba_dub
+  76785ee0-2d84-41f0-848c-e94b8f64c301:
+    group:
+    - Officers
+    options:
+      name: nickbreaton
+    permissions: []
+  3389d1bb-0fc5-45a5-ab25-96b283180508:
+    group:
+    - Officers
+    options:
+      name: JSSwaffy
+  e63231b4-ceea-43d3-bf26-040be9d3ae6e:
+    group:
+    - Officers
+    options:
+      name: Wubba_lubba_dub
