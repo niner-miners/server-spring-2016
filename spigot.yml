@@ -11,8 +11,14 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 8
+messages:
+  whitelist: Go to ninerminers.com/join to be added!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
@@ -34,14 +40,8 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  debug: false
   moved-too-quickly-threshold: 100.0
-messages:
-  whitelist: Go to ninerminers.com/join to be added!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 commands:
   tab-complete: 0
   spam-exclusions:
@@ -60,6 +60,16 @@ world-settings:
   default:
     verbose: true
     mob-spawn-range: 4
+    nerf-spawner-mobs: false
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -89,16 +99,6 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    nerf-spawner-mobs: false
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5

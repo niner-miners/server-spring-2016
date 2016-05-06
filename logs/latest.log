@@ -1,58 +1,162 @@
-[00:00:20] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-222 [0;35;1m14[0;33;1m.[m
-[00:00:20] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:01:01] [Server thread/INFO]: Capt_RATZ issued server command: /f claim auto
-[00:10:16] [Server thread/INFO]: Capt_RATZ issued server command: /f claim auto
-[00:10:16] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-217 [0;35;1m11[0;33;1m.[m
-[00:10:16] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:21] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-217 [0;35;1m10[0;33;1m.[m
-[00:10:21] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:24] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-216 [0;35;1m10[0;33;1m.[m
-[00:10:24] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:28] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-215 [0;35;1m10[0;33;1m.[m
-[00:10:28] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:29] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-215 [0;35;1m11[0;33;1m.[m
-[00:10:29] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:32] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-215 [0;35;1m12[0;33;1m.[m
-[00:10:32] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:35] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-215 [0;35;1m13[0;33;1m.[m
-[00:10:35] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:39] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-215 [0;35;1m14[0;33;1m.[m
-[00:10:39] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:41] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-216 [0;35;1m14[0;33;1m.[m
-[00:10:41] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:43] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-216 [0;35;1m13[0;33;1m.[m
-[00:10:43] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:44] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-217 [0;35;1m13[0;33;1m.[m
-[00:10:44] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:49] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-218 [0;35;1m13[0;33;1m.[m
-[00:10:49] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:10:57] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-218 [0;35;1m14[0;33;1m.[m
-[00:10:57] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:11:00] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-217 [0;35;1m14[0;33;1m.[m
-[00:11:00] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:11:09] [Server thread/INFO]: [0;35;1m[0;37;1m**BetterAtSmash Capt_RATZ[0;33;1m bought [0;35;1m1 [0;33;1mchunk [0;35;1m[0;37;1mworld [0;35;1m-217 [0;35;1m12[0;33;1m.[m
-[00:11:09] [Server thread/INFO]:   [0;35;1m[0;32;1m[0;32;22mWilderness[0;33;1m --> [0;35;1m[0;37;1mBetterAtSmash[m
-[00:11:16] [Server thread/INFO]: Capt_RATZ issued server command: /f claim auto
-[00:24:25] [Server thread/INFO]: MercurialMag lost connection: Disconnected
-[00:24:25] [Server thread/INFO]: MercurialMag left the game.
-[00:24:28] [User Authenticator #11/INFO]: UUID of player MercurialMag is 1e0a6390-5f10-40bf-89e6-9fd8fbe0522b
-[00:24:28] [Server thread/INFO]: MercurialMag[/127.0.0.1:40808] logged in with entity id 35186 at ([world]-3471.4984331304177, 68.0, 187.53199002507958)
-[00:24:32] [Server thread/INFO]: MercurialMag lost connection: Disconnected
-[00:24:32] [Server thread/INFO]: MercurialMag left the game.
-[00:24:34] [User Authenticator #12/INFO]: UUID of player MercurialMag is 1e0a6390-5f10-40bf-89e6-9fd8fbe0522b
-[00:24:34] [Server thread/INFO]: MercurialMag[/127.0.0.1:40824] logged in with entity id 35329 at ([world]-3471.4984331304177, 68.0, 187.53199002507958)
-[00:24:53] [Server thread/INFO]: MercurialMag lost connection: Disconnected
-[00:24:53] [Server thread/INFO]: MercurialMag left the game.
-[00:25:05] [User Authenticator #13/INFO]: UUID of player MercurialMag is 1e0a6390-5f10-40bf-89e6-9fd8fbe0522b
-[00:25:05] [Server thread/INFO]: MercurialMag[/127.0.0.1:40874] logged in with entity id 35546 at ([world]-3471.4984331304177, 68.0, 187.53199002507958)
-[01:09:55] [Server thread/WARN]: MercurialMag moved too quickly! -14.349564825599373,-0.8378585789729982,0.6198260944206595
-[01:09:55] [Server thread/WARN]: Capt_RATZ moved too quickly! 3019.0,32.0,-155.19999998807907
-[01:26:59] [Server thread/WARN]: Capt_RATZ moved too quickly! -3320.0,-16.0,290.77311993090495
-[01:28:34] [Server thread/INFO]: Capt_RATZ issued server command: /f home
-[02:17:16] [Server thread/INFO]: MercurialMag was slain by Zombie
-[02:37:43] [Server thread/INFO]: MercurialMag lost connection: Disconnected
-[02:37:43] [Server thread/INFO]: MercurialMag left the game.
-[02:37:51] [Server thread/INFO]: Lord_Impetus lost connection: Disconnected
-[02:37:51] [Server thread/INFO]: Lord_Impetus left the game.
-[02:37:57] [Server thread/INFO]: Capt_RATZ lost connection: Disconnected
-[02:37:57] [Server thread/INFO]: Capt_RATZ left the game.
+[09:07:32] [Server thread/INFO]: Starting minecraft server version 1.9.2
+[09:07:32] [Server thread/INFO]: Loading properties
+[09:07:32] [Server thread/INFO]: Default game type: SURVIVAL
+[09:07:33] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a1b8bf3-f326992 (MC: 1.9.2) (Implementing API version 1.9.2-R0.1-SNAPSHOT)
+[09:07:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:07:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:07:34] [Server thread/INFO]: Debug logging is disabled
+[09:07:34] [Server thread/INFO]: Generating keypair
+[09:07:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:07:34] [Server thread/INFO]: Using epoll channel type
+[09:07:35] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[09:07:35] [Server thread/INFO]: [EasyWarp] Loading EasyWarp v3.3
+[09:07:35] [Server thread/INFO]: [ServerWelcome] Loading ServerWelcome v1.0
+[09:07:35] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[09:07:35] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-SNAPSHOT-Dev201603020142
+[09:07:35] [Server thread/INFO]: [dynmap] version=git-Spigot-a1b8bf3-f326992 (MC: 1.9.2)
+[09:07:35] [Server thread/INFO]: [dynmap] Mod Support API available
+[09:07:35] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.5
+[09:07:35] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[09:07:35] [Server thread/INFO]: [Factions] Loading Factions v2.8.5
+[09:07:35] [Server thread/INFO]: [FactionsDynmap] Loading FactionsDynmap v2.8.6
+[09:07:35] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.5
+[09:07:35] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.5[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[09:07:36] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.5[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[09:07:36] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.5[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[09:07:36] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.5[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[09:07:36] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.5[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[09:07:36] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.5[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m26[0;33;1mms.[m
+[09:07:36] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.5[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m471ms[0;33;1m) ===[m
+[09:07:36] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[09:07:36] [Server thread/INFO]: Preparing level "world"
+[09:07:36] [Server thread/INFO]: -------- World Settings For [world] --------
+[09:07:36] [Server thread/INFO]: Mob Spawn Range: 4
+[09:07:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:07:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:07:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:07:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 10
+[09:07:36] [Server thread/INFO]: Random Lighting Updates: true
+[09:07:36] [Server thread/INFO]: Structure Info Saving: true
+[09:07:36] [Server thread/INFO]: Max Entity Collisions: 8
+[09:07:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:07:36] [Server thread/INFO]: Max TNT Explosions: 100
+[09:07:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:07:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:07:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:07:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:07:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:07:36] [Server thread/INFO]: View Distance: 10
+[09:07:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:07:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:07:36] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[09:07:36] [Server thread/INFO]: Mob Spawn Range: 4
+[09:07:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:07:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:07:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:07:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:07:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 10
+[09:07:36] [Server thread/INFO]: Random Lighting Updates: true
+[09:07:36] [Server thread/INFO]: Structure Info Saving: true
+[09:07:36] [Server thread/INFO]: Max Entity Collisions: 8
+[09:07:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:07:36] [Server thread/INFO]: Max TNT Explosions: 100
+[09:07:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:07:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:07:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:07:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:07:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:07:36] [Server thread/INFO]: View Distance: 10
+[09:07:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:07:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:07:37] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[09:07:37] [Server thread/INFO]: Mob Spawn Range: 4
+[09:07:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[09:07:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[09:07:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[09:07:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[09:07:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 10
+[09:07:37] [Server thread/INFO]: Random Lighting Updates: true
+[09:07:37] [Server thread/INFO]: Structure Info Saving: true
+[09:07:37] [Server thread/INFO]: Max Entity Collisions: 8
+[09:07:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[09:07:37] [Server thread/INFO]: Max TNT Explosions: 100
+[09:07:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[09:07:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[09:07:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[09:07:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[09:07:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[09:07:37] [Server thread/INFO]: View Distance: 10
+[09:07:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[09:07:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[09:07:37] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6089780144019293009)
+[09:07:38] [Server thread/INFO]: Preparing spawn area: 0%
+[09:07:39] [Server thread/INFO]: Preparing spawn area: 18%
+[09:07:40] [Server thread/INFO]: Preparing spawn area: 43%
+[09:07:41] [Server thread/INFO]: Preparing spawn area: 62%
+[09:07:42] [Server thread/INFO]: Preparing spawn area: 89%
+[09:07:42] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6089780144019293009)
+[09:07:43] [Server thread/INFO]: Preparing spawn area: 46%
+[09:07:44] [Server thread/INFO]: Preparing start region for level 2 (Seed: -6089780144019293009)
+[09:07:45] [Server thread/INFO]: [EasyWarp] Enabling EasyWarp v3.3
+[09:07:45] [Server thread/INFO]: [ServerWelcome] Enabling ServerWelcome v1.0
+[09:07:45] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[09:07:45] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[09:07:45] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[09:07:45] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-SNAPSHOT-Dev201603020142
+[09:07:46] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
+[09:07:48] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[09:07:50] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[09:07:50] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[09:07:50] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[09:07:50] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[09:07:50] [Server thread/INFO]: [dynmap] version 2.3-SNAPSHOT-Dev201603020142 is enabled - core version 2.3-SNAPSHOT-Dev201603020139
+[09:07:50] [Server thread/ERROR]: [dynmap] HDMap missing required attribute 'name' - disabled
+[09:07:50] [Server thread/ERROR]: [dynmap] HDMap missing required attribute 'name' - disabled
+[09:07:50] [Server thread/INFO]: [dynmap] Loaded 1 maps of world 'world'.
+[09:07:50] [Server thread/ERROR]: [dynmap] HDMap missing required attribute 'name' - disabled
+[09:07:50] [Server thread/ERROR]: [dynmap] HDMap missing required attribute 'name' - disabled
+[09:07:50] [Server thread/INFO]: [dynmap] Loaded 1 maps of world 'world_nether'.
+[09:07:50] [Server thread/ERROR]: [dynmap] HDMap missing required attribute 'name' - disabled
+[09:07:50] [Server thread/ERROR]: [dynmap] HDMap missing required attribute 'name' - disabled
+[09:07:50] [Server thread/INFO]: [dynmap] Loaded 1 maps of world 'world_the_end'.
+[09:07:50] [Server thread/WARN]: [dynmap] playermove trigger enabled - this trigger can cause excessive tile updating: use with caution
+[09:07:50] [Server thread/INFO]: [dynmap] Enabled
+[09:07:50] [Server thread/INFO]: [Factions] Enabling Factions v2.8.5
+[09:07:50] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.5[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[09:07:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactions 2.8.5[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m1305ms[0;33;1m) ===[m
+[09:07:52] [Server thread/INFO]: [FactionsDynmap] Enabling FactionsDynmap v2.8.6
+[09:07:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactionsDynmap 2.8.6[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[09:07:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactionsDynmap 2.8.6[0;36;22m] [0;33;1m[0;31;1mWARNING: You are using [0;35;1mFactionsDynmap [0;36;1m2.8.6 [0;31;1mand [0;35;1mMassiveCore [0;36;1m2.8.5[0;31;1m![m
+[09:07:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactionsDynmap 2.8.6[0;36;22m] [0;33;1m[0;31;1mWARNING: They must be the exact same version to work properly![m
+[09:07:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactionsDynmap 2.8.6[0;36;22m] [0;33;1m[0;31;1mWARNING: Remember to always update all plugins at the same time![m
+[09:07:52] [Server thread/INFO]: [0;36;22m[[0;36;1mFactionsDynmap 2.8.6[0;36;22m] [0;33;1m[0;31;1mWARNING: You should stop your server and properly update.[m
+[09:08:02] [Server thread/INFO]: [0;36;22m[[0;36;1mFactionsDynmap 2.8.6[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m27ms[0;33;1m) ===[m
+[09:08:02] [Server thread/WARN]: Could not register alias home because it contains commands that do not exist: f home
+[09:08:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:08:02] [Server thread/INFO]: Done (26.112s)! For help, type "help" or "?"
+[09:10:00] [Craft Scheduler Thread - 4/INFO]: [0;36;22m[[0;36;1mFactions 2.8.5[0;36;22m] [0;33;1mPlayer zombie was auto-removed due to inactivity.[m
+[09:10:00] [Craft Scheduler Thread - 4/INFO]: [0;36;22m[[0;36;1mFactions 2.8.5[0;36;22m] [0;33;1mPlayer skeleton was auto-removed due to inactivity.[m
+[09:10:00] [Craft Scheduler Thread - 4/INFO]: [0;36;22m[[0;36;1mFactions 2.8.5[0;36;22m] [0;33;1mPlayer spider was auto-removed due to inactivity.[m
+[09:10:00] [Craft Scheduler Thread - 4/INFO]: [0;36;22m[[0;36;1mFactions 2.8.5[0;36;22m] [0;33;1mPlayer creeper was auto-removed due to inactivity.[m
